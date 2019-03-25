@@ -7,7 +7,17 @@ Jamku user? You can
 
 
 ## Creating a new Feature Request
-> GitHub calls feature request as "Issue".
+> GitHub calls Feature Request as "Issue".
 1. Visit https://github.com/adarshmadrecha/jamku/issues
 2. Click on "New Issue" button
 3. Fill in the details and Save
+
+
+## Vote on Feature Request
+1. Open any issue (example : https://github.com/adarshmadrecha/jamku/issues/25)
+2. Click on Smiley Icon + 🙂
+3. Click on 👍. If you really love to have the feature, you can also vote a Heart 🧡
+
+> Example: 
+![image](https://user-images.githubusercontent.com/11911938/54923133-9eee8600-4f2f-11e9-9bd6-14968952e250.png)
+
