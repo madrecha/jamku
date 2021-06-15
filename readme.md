@@ -1,4 +1,4 @@
-This GitHub Repository is created to track feature requests for Jamku (an Online Office Management Software for Indian CA, CS, Tax Consultants, Advocates)
+This GitHub Repository is created to track feature requests for Jamku (an Online [Practice Management Software](https://madrecha.com/jamku) for Professionals, Accountants, Consultants, Advocates)
 
 Jamku user? You can
 1. Create new Feature Request
