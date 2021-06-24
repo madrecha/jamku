@@ -6,6 +6,6 @@ contact_links:
   - name: Help Docs
     url: https://help.jamku.app
     about: Detailed help documentation covering all feature of Jamku
-- name: Jamku Support
+  - name: Jamku Support
     url: https://help.jamku.app/getting-started/support.html?ref=GitHub
     about: Other ways of getting support
