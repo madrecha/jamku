@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Ask a question/query about Jamku
+    url: https://github.com/madrecha/jamku/discussions/new?&category=QA
+    about: Ask a question or request support for using Jamku
+  - name: Help Docs
+    url: https://help.jamku.app
+    about: Detailed help documentation covering all feature of Jamku
+- name: Jamku Support
+    url: https://help.jamku.app/getting-started/support.html?ref=GitHub
+    about: Other ways of getting support
