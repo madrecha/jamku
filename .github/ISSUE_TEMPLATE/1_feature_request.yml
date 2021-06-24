@@ -1,0 +1,24 @@
+name: Feature request 🧭
+description: Suggest an idea Jamku
+labels: "Classify"
+body:
+- type: textarea
+  id: feature-request
+  attributes:
+    label: Feature Request
+    description: "What would you like to have as a feature?"
+    placeholder: "A clear and concise description of what you want to happen."
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Use-Case
+    description: "How would this help you?"
+    placeholder: "Tell us more what you'd like to achieve."
+  validations:
+    required: false
+- type: textarea
+  id: anything-else
+  attributes:
+    label: Anything else?
+    description: "Let us know if you have anything else to share, like how can it be implemneted, what impact will it have on other features"
