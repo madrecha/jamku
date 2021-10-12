@@ -6,7 +6,7 @@ As a Jamku user you can:
 1. [Create new Feature Request](https://github.com/madrecha/jamku/issues/new/choose) (In Issues)
 2. Vote on Features Request created by others
 3. Comment on Feature Request
-4. [Ask questions](https://github.com/madrecha/jamku/discussions/new?&category=QA) (In Discussion)
+4. [Ask questions](https://github.com/madrecha/jamku/discussions/new?&category=QA) (In [Discussion](https://github.com/madrecha/jamku/discussions))
 
 
 ## Creating a new Feature Request
