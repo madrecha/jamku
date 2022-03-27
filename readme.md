@@ -25,3 +25,6 @@ As a Jamku user you can:
   > Example: 
     ![image](https://user-images.githubusercontent.com/11911938/54923133-9eee8600-4f2f-11e9-9bd6-14968952e250.png)
 
+
+
+![Alt](https://repobeats.axiom.co/api/embed/82122906eaf9a3998659eed159568059d4e9665f.svg "Repobeats analytics image")
