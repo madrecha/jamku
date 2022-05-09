@@ -2,7 +2,7 @@
 
 <table border="0">
 	<tr>
-		<td><img src="https://madrecha.com/_nuxt/9577d3396ee56c5ca7740d27b665810a.svg" width="300" /></td>
+		<td><img src="https://raw.githubusercontent.com/madrecha/jamku/master/imgs/jamku_logo.svg" width="300" /></td>
 		<td>
       <strong><em>Jamku</em></strong> is an <strong>Online Office Management Software</strong> for <strong>Chartered Accountants, Company Secretaries, Tax Consultants, Advocates and other professionals</strong>
     </td>
