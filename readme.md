@@ -13,7 +13,10 @@ Backed by the versatile [Madrecha](https://madrecha.com/) Group, **Jamku** is In
 
 ## 1. Jamku GitHub Repository
 
-This GitHub Repository is created to track feature requests for ***Jamku***.
+This GitHub Repository is created to 
+1. 📃Track feature requests from users
+2. 🙋🏻‍♀️Answer common questions asked by users
+3. 📢Public Announcements 
 
 **As a Jamku user you can**:
 
