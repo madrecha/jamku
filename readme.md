@@ -9,7 +9,7 @@
 	</tr>
 </table>
 
-Backed by the versatile Madrecha Group, **Jamku** is India's largest Practice Management Software, used by thousands of offices all across India, SAARC, ASEAN, and Africa. Visit https://madrecha.com/jamku to know more about Jamku.
+Backed by the versatile [Madrecha](https://madrecha.com/) Group, **Jamku** is India's largest Practice Management Software, used by thousands of offices all across India, SAARC, ASEAN, and Africa. Visit [madrecha.com/jamku](https://madrecha.com/jamku/) to know more about Jamku.
 
 ## 1. Jamku GitHub Repository
 
@@ -20,7 +20,7 @@ This GitHub Repository is created to track feature requests for ***Jamku***.
 1. 📑 [Create new Feature Request](https://github.com/madrecha/jamku/issues/new/choose) (In Issues)
 2. 👍🏻 Vote on Features Request created by others
 3. 💬 Comment on Feature Request
-4. 🤷🏻‍♀️ [Ask questions](https://github.com/madrecha/jamku/discussions/new?&category=QA) (In [Discussion](https://github.com/madrecha/jamku/discussions))
+4. 🤷🏻‍♀️ [Ask questions](https://github.com/madrecha/jamku/discussions/new?&category=QA) _Needs Login_ (In [Discussion Section](https://github.com/madrecha/jamku/discussions))
 
 
 ### 1.1. Creating a new Feature Request
