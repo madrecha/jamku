@@ -50,6 +50,10 @@ This GitHub Repository is created to
 ![Best pratice management software for CA](https://repobeats.axiom.co/api/embed/82122906eaf9a3998659eed159568059d4e9665f.svg "Repobeats analytics image")
 
 
+## 3. News & Updates
 
+https://user-images.githubusercontent.com/11911938/215418038-44ef7947-ad62-49a4-8dec-9c3531883bd0.mp4
+
+# Misc
 ![certificate](https://user-images.githubusercontent.com/11911938/199308704-c30976bc-8817-4596-a15a-3090d03acae9.jpg)
 
