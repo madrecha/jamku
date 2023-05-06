@@ -44,8 +44,15 @@ This GitHub Repository is created to
 
   > Example: 
     ![image](https://user-images.githubusercontent.com/11911938/54923133-9eee8600-4f2f-11e9-9bd6-14968952e250.png)
+    
+    
+## 2. About Jamku 
+![jamku client 1](https://user-images.githubusercontent.com/11911938/236608852-7d489158-3118-467a-b9fd-1036b28834a5.png)
+![jamku client 2](https://user-images.githubusercontent.com/11911938/236608855-7ef671db-c6c7-4f39-911c-67e52559e393.png)
+![team_jamku](https://user-images.githubusercontent.com/11911938/236608856-d593d258-6dfc-4cbb-b909-1a2ffe3af9cf.png)
 
-## 2. Jamku GitHub statistics
+
+## 3. Statistics of this repo
 
 ![Best pratice management software for CA](https://repobeats.axiom.co/api/embed/82122906eaf9a3998659eed159568059d4e9665f.svg "Repobeats analytics image")
 
